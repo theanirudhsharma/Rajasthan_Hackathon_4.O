@@ -1,0 +1,26 @@
+Problem Statement : In Areas like Agriculture, tourism, and Security Systems, Lack in usuage of  technology, Time Consumption.
+Acc. to agriculture statical data of Rajasthan , there is a downfall in the crop yeild comparatively due to certain plant diseases.
+cultivation of crops for optimum yield and quality produce is highly technical. India is an agricultural country; wherein about
+70% of the population depends on agriculture. Versitality is huge in this feild.Disease management is a challenging task.
+
+Solution : Using of Segmentation Technology for Digital image classification and recognition by Machine Learning.
+
+In Agriculture ,
+1.Automatic Pest Counting System Using Image Processing Technique
+2.Color image segmentation method based on statistical pattern recognition for plant disease diagnose
+3.Fruit or any agriproduct automatic sorting. 
+4.Detection of Stress in the products using X ray quarantine inspection on selective fruits or yield
+5.Maize Leaf Disease Identifying System Based Image Recognition.
+
+The image processing can be used in agricultural
+applications for following purposes:
+1. To detect diseased leaf, stem, fruit
+2. To quantify affected area by disease.
+3. To find shape of affected area.
+4. To determine color of affected area
+5. To determine size & shape of fruits.
+
+
+In Tourism ,
+If an stranger visits jaipur and certain places of jaipur he/she might not know the place , by Using image recognition by Google Cloud Vision API It can be used for landmark detection.
+We can make an android based mobile application that can be used as a guide by the tourists. The main function of this application is to recognize a monument or a famous spot from the picture clicked/uploaded by the user and to provide detailed information regarding it. This is achieved by using open-cv for image recognition. It then displays the information that is associated with that monument. The information is available in the JSON database. It will also be able to point the location of that monument on the map.
