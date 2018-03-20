@@ -1,5 +1,5 @@
 # Image Recognition and Classification
-## _Idea_ : Using Segmentation Technology for Digital image classification and recognition by Machine Learning.
+## Idea : Using Segmentation Technology for Digital image classification and recognition by Machine Learning.
 
 ### In Agriculture,
 
@@ -37,11 +37,18 @@ This project uses a multithreaded approach to create a low latency real-time obj
 ```
 python Application.py
 ```
-
+![](images/1.png)
 ##### For Image Recognition from picture
 ```
 python img_recg.py --image images\pal.jpg --prototxt bvlc_googlenet.prototxt --model bvlc_googlenet.caffemodel --labels synset_words.txt
 ```
+![](images/2.png)
+> Extended version of this can be used in Agriculture ie to prevent plant diseases by using segmentation technology analysing the visual symtomps of a plant.This is just a prototype of Real Time Object Detection using pre trained datasets (90 Classes) to demonstrate the technology.
+
+### Links
+
+> Research Papers on Image processing in Agriculture
+https://www.ijsr.net/archive/v5i1/NOV152634.pdf
 
 
 
