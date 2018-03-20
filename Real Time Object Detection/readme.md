@@ -33,3 +33,11 @@ we have discussed some famous and basic methods of object detection and tracking
 
      After installation open python on cmd and import tensorflow to execute your process.
     
+## Final results:
+
+Execution of this program snippet is used to find the real objects accurately by using
+optical character recognition (OCR).OCR converts images of typed or handwritten text into machine-encoded text.
+
+It uses an embedded algorithm to identify the object in the picture from the given data set and also displays the percentage of accuracy of the image that has been recognised.
+
+#### Created By: Team LPU
