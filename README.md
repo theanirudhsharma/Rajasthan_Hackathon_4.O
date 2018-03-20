@@ -1,4 +1,4 @@
-Image Recognition and Classification
+# Image Recognition and Classification
 ## _Idea_ : Using Segmentation Technology for Digital image classification and recognition by Machine Learning.
 
 ### In Agriculture,
@@ -30,4 +30,18 @@ This project uses a multithreaded approach to create a low latency real-time obj
 2. OpenCV
 3. Python 3.5.x
 4. Pre-Trained Data Set
+
+## Outputs
+
+##### For Real Time Object Detection
+```
+python Application.py
+```
+
+##### For Image Recognition from picture
+```
+python img_recg.py --image images\pal.jpg --prototxt bvlc_googlenet.prototxt --model bvlc_googlenet.caffemodel --labels synset_words.txt
+```
+
+
 
