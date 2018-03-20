@@ -50,5 +50,12 @@ python img_recg.py --image images\pal.jpg --prototxt bvlc_googlenet.prototxt --m
 > Research Papers on Image processing in Agriculture
 https://www.ijsr.net/archive/v5i1/NOV152634.pdf
 
+> Implementation of Deep Learning and Image processing by Japan Farmer's son for Cucumber Sorting
+https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow
+
+### Demo Video Link
+
+> YouTube Link https://www.youtube.com/watch?v=Bjfo80fbUCY
+###### USE SUBTITLES FOR EXPLAINATION
 
 
